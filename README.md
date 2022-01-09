@@ -5,12 +5,15 @@ Hello, Blockchain Developer Karriz 😃
 
 ## Interesting In...
 ### FrontEnd-Side
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
+![ReactNative](https://img.shields.io/badge/React%20Native-white?style=for-the-badge&logo=react)
+![Electron](https://img.shields.io/badge/Electron-272A37?style=for-the-badge&logo=electron)
+
 ### BackEnd-Side
-![Java](https://img.shields.io/badge/Java%2011-orange?style=for-the-badge&logo=java)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat%209.0.48-red?style=for-the-badge&logo=apache-tomcat)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka%202.7.1-black?style=for-the-badge&logo=apache-kafka)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-red?style=for-the-badge&logo=apache-tomcat)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apache-kafka)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-skyblue?style=for-the-badge&logo=elasticsearch)
 ![Junit 5](https://img.shields.io/badge/Junit%205-white?style=for-the-badge&logo=junit5)
 
