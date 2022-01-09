@@ -1,7 +1,10 @@
-# Welcome Message 😎
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarriz-dev&count_bg=%23AD4AE2&title_bg=%23404040&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Welcome Message
 Hello, Blockchain Developer Karriz 😃
 
-<hr>
+<br>
+<br>
 
 ## Interesting In...
 ### FrontEnd-Side
@@ -17,21 +20,29 @@ Hello, Blockchain Developer Karriz 😃
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-skyblue?style=for-the-badge&logo=elasticsearch)
 ![Junit 5](https://img.shields.io/badge/Junit%205-white?style=for-the-badge&logo=junit5)
 
+### And...?
+https://github.com/symbol & https://github.com/xymbool
+
+<br>
+
 ## Career
 Software Development & Research Team, *Assistant Manager*, ([Covision Corp., Ltd.](https://www.covision.co.kr), 2020-01-28 ~ Now)
 
-<hr>
+<br>
 
 ## Education
 *Master of Science in Computer Engineering & Science* ([Sogang University](https://cs.sogang.ac.kr/cs/index_new.html), 2018 ~ 2020)
 
 *Bachelor of Science in Software Engineering* ([Dongseo University](https://uni.dongseo.ac.kr/software), 2014 ~ 2018)
 
-<hr>
+<br>
 
 ## Github Stats
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karriz-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karriz-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 
 <div align=center>
 
