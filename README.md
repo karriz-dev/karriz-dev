@@ -3,6 +3,9 @@
 ## Welcome Message
 Hello, Blockchain Developer Karriz 😃
 
+Life Address: NCUWVHZ3BXZIVZAYEFIED77YM4QKJAWM5T4HU5I
+Donate Address: NBVBA3ATY2EM67D4FUOYRETQU5LCQZL43TTYAZA
+
 <br>
 <br>
 
