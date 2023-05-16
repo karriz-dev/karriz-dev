@@ -23,13 +23,10 @@ Donate Address: NBVBA3ATY2EM67D4FUOYRETQU5LCQZL43TTYAZA
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-skyblue?style=for-the-badge&logo=elasticsearch)
 ![Junit 5](https://img.shields.io/badge/Junit%205-white?style=for-the-badge&logo=junit5)
 
-### And...?
-https://github.com/symbol & https://github.com/xymbool
-
 <br>
 
 ## Career
-Software Development & Research Team, *Assistant Manager*, ([Covision Corp., Ltd.](https://www.covision.co.kr), 2020-01-28 ~ Now)
+[Covision Corp., Ltd.](https://www.covision.co.kr), Research Team 1, *Assistant Manager* (2020-01-28 ~ 2023-03-10, 3Y 2M)
 
 <br>
 
