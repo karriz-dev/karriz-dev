@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarriz-dev&count_bg=%23AD4AE2&title_bg=%23404040&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Welcome Message
-Hello, Blockchain Developer Karriz 😃
+Hello, SYMBOL Blockchain Developer Karriz 😃
 
 Life Address: NCUWVHZ3BXZIVZAYEFIED77YM4QKJAWM5T4HU5I  
 Donate Address: NBVBA3ATY2EM67D4FUOYRETQU5LCQZL43TTYAZA  
