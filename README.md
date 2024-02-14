@@ -52,7 +52,7 @@ Donate Address: NBVBA3ATY2EM67D4FUOYRETQU5LCQZL43TTYAZA
 
 <div align=center>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/karriz_)](https://twitter.com/karriz_)
+[![Twitter Badge](https://img.shields.io/badge/-X(Twitter)-black?style=flat&logo=x&logoColor=white&link=https://x.com/karriz_)](https://x.com/karriz_)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EC%9D%B4-73b955161/)](https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EC%9D%B4-73b955161/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ldh1428a@gmail.com)](mailto:ldh1428a@gmail.com)
 
