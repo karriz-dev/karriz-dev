@@ -1,3 +1,7 @@
+<div align="center>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=karriz-dev&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=65&desc=Symbol%20|%20XYM%20|%20Blockchain%20|%20web3.js%20|%20Software%20Enginnering&descSize=12&fontAlignY=44" />
+</div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarriz-dev&count_bg=%23AD4AE2&title_bg=%23404040&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Welcome Message
