@@ -38,9 +38,8 @@ Donate Address: NBVBA3ATY2EM67D4FUOYRETQU5LCQZL43TTYAZA
 <br>
 
 ## Education
-*Master of Science in Computer Engineering & Science* ([Sogang University](https://cs.sogang.ac.kr/cs/index_new.html), 2018 ~ 2020)
-
-*Bachelor of Science in Software Engineering* ([Dongseo University](https://uni.dongseo.ac.kr/software), 2014 ~ 2018)
++ *Master of Science in Computer Engineering & Science* ([Sogang University](https://cs.sogang.ac.kr/cs/index_new.html), 2018 ~ 2020)
++ *Bachelor of Science in Software Engineering* ([Dongseo University](https://uni.dongseo.ac.kr/software), 2014 ~ 2018)
 
 <br>
 
