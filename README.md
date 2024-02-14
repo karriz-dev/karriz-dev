@@ -30,10 +30,10 @@ Donate Address: NBVBA3ATY2EM67D4FUOYRETQU5LCQZL43TTYAZA
 <br>
 
 ## Career (Total: 6Y)
-[CCmediaService](http://ccmedia.co.kr), Development Team, *Assistant Manager* (2020-12-26 ~ current)  
-[FactorLabs](https://factorlabs.net/index.en.php), Development Team, *Blockchain Part Lead* (2023-03-20 ~ 2023-10-31)  
-[Covision Corp., Ltd.](https://www.covision.co.kr), Research Team 1, *Assistant Manager* (2020-01-28 ~ 2023-03-10)  
-[IBRC(Intelligence Blockchain Research Center)](http://itrcblockchain.com/), *Research Engineer* (2018-01-01 ~ 2020-01-17)  
++ [CCmediaService](http://ccmedia.co.kr), Development Team, *Assistant Manager* (2020-12-26 ~ current)  
++ [FactorLabs](https://factorlabs.net/index.en.php), Development Team, *Blockchain Part Lead* (2023-03-20 ~ 2023-10-31)  
++ [Covision Corp., Ltd.](https://www.covision.co.kr), Research Team 1, *Assistant Manager* (2020-01-28 ~ 2023-03-10)  
++ [IBRC(Intelligence Blockchain Research Center)](http://itrcblockchain.com/), *Research Engineer* (2018-01-01 ~ 2020-01-17)  
 
 <br>
 
