@@ -7,9 +7,6 @@
 ## Welcome Message
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&color=7D4CDC&center=true&vCenter=true&random=true&width=550&lines=Hello%2C+I'm+Blockchain+Developer+Karriz+%F0%9F%98%83)](https://karriz.me)
 
-Life Address: NCUWVHZ3BXZIVZAYEFIED77YM4QKJAWM5T4HU5I  
-Donate Address: NBVBA3ATY2EM67D4FUOYRETQU5LCQZL43TTYAZA  
-
 <br>
 
 ## Interesting In...
