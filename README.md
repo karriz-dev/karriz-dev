@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarriz-dev&count_bg=%23AD4AE2&title_bg=%23404040&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Welcome Message
-Hello, SYMBOL Blockchain Developer Karriz 😃
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&color=7D4CDC&center=true&vCenter=true&random=true&width=550&lines=Hello%2C+I'm+Blockchain+Developer+Karriz+%F0%9F%98%83)](https://karriz.me)
 
 Life Address: NCUWVHZ3BXZIVZAYEFIED77YM4QKJAWM5T4HU5I  
 Donate Address: NBVBA3ATY2EM67D4FUOYRETQU5LCQZL43TTYAZA  
