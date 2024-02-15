@@ -26,7 +26,7 @@
 
 <br>
 
-## Career (Total: 6Y)
+## Career
 + [CCmediaService](http://ccmedia.co.kr), Development Team, *Assistant Manager* (2020-12-26 ~ current)  
 + [FactorLabs](https://factorlabs.net/index.en.php), Development Team, *Blockchain Part Lead* (2023-03-20 ~ 2023-10-31)  
 + [Covision Corp., Ltd.](https://www.covision.co.kr), Research Team 1, *Assistant Manager* (2020-01-28 ~ 2023-03-10)  
@@ -40,7 +40,7 @@
 
 <br>
 
-## Github Stats
+## My Statistics
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karriz-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karriz-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
