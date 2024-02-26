@@ -24,6 +24,13 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-skyblue?style=for-the-badge&logo=elasticsearch)
 ![Junit 5](https://img.shields.io/badge/Junit%205-white?style=for-the-badge&logo=junit5)
 
+### Blockchain
++ Symbol (XYM)
++ Game-Fi
++ DAO
++ Ehtereum (Geth, Hyperledger BESU)
++ Solidity
+
 <br>
 
 ## Career
