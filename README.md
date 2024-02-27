@@ -26,8 +26,8 @@
 
 ### Blockchain
 + Symbol (XYM)
-+ Game-Fi
-+ DAO
++ Aggregated Transaction, Atomic-Swap, L1 Blockchain, Catapult, Plugin
++ Game-Fi, DAO
 + Ehtereum (Geth, Hyperledger BESU)
 + Solidity
 
