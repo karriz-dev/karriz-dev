@@ -26,7 +26,7 @@
 
 ### Blockchain
 + Symbol (XYM)
-+ Aggregated Transaction, Atomic-Swap, L1 Blockchain, Catapult, Plugin
++ Aggregated Transaction, Atomic-Swap, L1 Blockchain, Catapult, Plug-in Blockchain
 + Game-Fi, DAO
 + Ehtereum (Geth, Hyperledger BESU)
 + Solidity
