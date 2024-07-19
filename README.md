@@ -44,20 +44,6 @@
 
 <br>
 
-## Career (about 6Y)
-+ [CCmediaService](http://ccmedia.co.kr), Development Team, *Assistant Manager* (2020-12-26 ~ current)  
-+ [FactorLabs](https://factorlabs.net/index.en.php), Development Team, *Blockchain Part Lead* (2023-03-20 ~ 2023-10-31)  
-+ [Covision Corp., Ltd.](https://www.covision.co.kr), Research Team 1, *Assistant Manager* (2020-01-28 ~ 2023-03-10)  
-+ [IBRC(Intelligence Blockchain Research Center)](http://itrcblockchain.com/), *Research Engineer* (2018-01-01 ~ 2020-01-17)  
-
-<br>
-
-## Education
-+ *Master of Science in Computer Engineering & Science* ([Sogang University](https://cs.sogang.ac.kr/cs/index_new.html), 2018 ~ 2020)
-+ *Bachelor of Science in Software Engineering* ([Dongseo University](https://uni.dongseo.ac.kr/software), 2014 ~ 2018)
-
-<br>
-
 ## My Statistics
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karriz-dev&theme=midnight-purple&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karriz-dev&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
